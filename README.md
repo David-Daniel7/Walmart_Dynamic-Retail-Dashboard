@@ -103,10 +103,9 @@ Highlight recommendations: focus on profitable categories, reduce return rates, 
 
 
 🛠 Tools Used
+
 Microsoft Excel
-
 Pivot Tables, Slicers, Conditional Formatting
-
 Data Cleaning and Merging techniques
 
 👤 Author
