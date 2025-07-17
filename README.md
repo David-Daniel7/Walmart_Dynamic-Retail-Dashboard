@@ -29,6 +29,7 @@ Region	Region under their control
 
 📌 Problem Statements
 ✅ 1. Key Performance Indicators (KPIs)
+
 Total Sales
 
 Total Profit
@@ -41,29 +42,34 @@ Average Order Value
 <img width="1436" height="166" alt="image" src="https://github.com/user-attachments/assets/b544ef3b-b7c8-4ff9-8c8e-27bd65d1745b" />
 
 📉 2. Sales and Profit Analysis
+
 Month-over-month and year-over-year trends
 
 Profitability by Market and Region
 <img width="786" height="517" alt="image" src="https://github.com/user-attachments/assets/a7d09656-a04a-44d8-855b-310fd9005620" />
 
 📦 3. Category-Wise Profit
+
 Deep-dive into product performance by category and sub-category
 Highlight underperforming products
 
 <img width="717" height="515" alt="image" src="https://github.com/user-attachments/assets/2f5f5814-78ab-4f53-825e-4e44fc6e0f8b" />
 
 👥 4. Segment-Wise Sales Share (%)
+
 Compare sales among Consumer, Corporate, and Home Office segments
 
 <img width="713" height="513" alt="image" src="https://github.com/user-attachments/assets/e0adca21-6806-47b5-b18d-74244b30f1f7" />
 
 🌍 5. Sales by Country
+
 Geo-level analysis of sales trends
 Identify countries with high/low profitability
 
 <img width="588" height="339" alt="image" src="https://github.com/user-attachments/assets/e6c7b843-ee62-42dd-8f84-ff5e0edd3956" />
 
 🔍 Steps to Solve
+
 Data Cleaning
 
 Convert date columns to proper datetime format
