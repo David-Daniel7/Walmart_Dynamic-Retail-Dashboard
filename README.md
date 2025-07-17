@@ -122,10 +122,10 @@ Make dashboard dynamic with auto-updating visuals
 
 🛠 Tools Used
 
-Microsoft Excel
-Pivot Tables, Slicers, Conditional Formatting
+Microsoft Excel,
+Pivot Tables, Slicers, Conditional Formatting,
 Data Cleaning and Merging techniques
 
 👤 Author
-Your Name:David.M
+:David.M
 Contact: davidmmsd@gmail.com
