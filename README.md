@@ -28,43 +28,59 @@ Person	Sales rep responsible
 Region	Region under their control
 
 📌 Problem Statements
+
 ✅ 1. Key Performance Indicators (KPIs)
 
-Total Sales
+Clean data and format columns.
 
-Total Profit
+Use Pivot Tables to calculate:
 
-Total Returns
+Total Sales, Profit, Orders, Returns.
 
-Profit Margin %
+Create formulas for:
 
-Average Order Value
+Profit Margin = Profit / Sales
+
+Avg Order Value = Sales / Orders
+
 <img width="1436" height="166" alt="image" src="https://github.com/user-attachments/assets/b544ef3b-b7c8-4ff9-8c8e-27bd65d1745b" />
 
 📉 2. Sales and Profit Analysis
 
-Month-over-month and year-over-year trends
+Convert Order Date to proper date format.
 
-Profitability by Market and Region
+Add Month and Year columns.
+
+Use slicers to filter by Market, Region, or Category.
+
 <img width="786" height="517" alt="image" src="https://github.com/user-attachments/assets/a7d09656-a04a-44d8-855b-310fd9005620" />
 
 📦 3. Category-Wise Profit
+Build Pivot Table with Category and Sub-Category.
 
-Deep-dive into product performance by category and sub-category
-Highlight underperforming products
+Show total Profit for each.
+
+Highlight loss-making categories.
 
 <img width="717" height="515" alt="image" src="https://github.com/user-attachments/assets/2f5f5814-78ab-4f53-825e-4e44fc6e0f8b" />
 
 👥 4. Segment-Wise Sales Share (%)
 
-Compare sales among Consumer, Corporate, and Home Office segments
+Create Pivot Table: Segment vs. Sales.
+
+Calculate % of total sales per segment.
 
 <img width="713" height="513" alt="image" src="https://github.com/user-attachments/assets/e0adca21-6806-47b5-b18d-74244b30f1f7" />
 
 🌍 5. Sales by Country
 
 Geo-level analysis of sales trends
+
 Identify countries with high/low profitability
+
+Create Pivot Table: Country vs. Sales and Profit.
+
+Sort to find best/worst performing countries.
 
 <img width="588" height="339" alt="image" src="https://github.com/user-attachments/assets/e6c7b843-ee62-42dd-8f84-ff5e0edd3956" />
 
@@ -98,13 +114,9 @@ Use visual elements: Bar charts, Maps, Line graphs, KPIs
 
 Make dashboard dynamic with auto-updating visuals
 
-Insights Summary
-
-Write observations below the dashboard or in a PowerPoint
-
-Highlight recommendations: focus on profitable categories, reduce return rates, etc.
 
 📸 Dashboard Preview
+
 <img width="1129" height="584" alt="image" src="https://github.com/user-attachments/assets/35d29b1b-b3c3-49d5-b25b-3a5b7e35cabf" />
 
 
