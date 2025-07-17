@@ -48,8 +48,8 @@ Profitability by Market and Region
 
 📦 3. Category-Wise Profit
 Deep-dive into product performance by category and sub-category
-
 Highlight underperforming products
+
 <img width="717" height="515" alt="image" src="https://github.com/user-attachments/assets/2f5f5814-78ab-4f53-825e-4e44fc6e0f8b" />
 
 👥 4. Segment-Wise Sales Share (%)
