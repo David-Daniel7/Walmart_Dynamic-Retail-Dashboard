@@ -46,7 +46,6 @@ Month-over-month and year-over-year trends
 Profitability by Market and Region
 <img width="786" height="517" alt="image" src="https://github.com/user-attachments/assets/a7d09656-a04a-44d8-855b-310fd9005620" />
 
-
 📦 3. Category-Wise Profit
 Deep-dive into product performance by category and sub-category
 
@@ -55,12 +54,13 @@ Highlight underperforming products
 
 👥 4. Segment-Wise Sales Share (%)
 Compare sales among Consumer, Corporate, and Home Office segments
+
 <img width="713" height="513" alt="image" src="https://github.com/user-attachments/assets/e0adca21-6806-47b5-b18d-74244b30f1f7" />
 
 🌍 5. Sales by Country
 Geo-level analysis of sales trends
-
 Identify countries with high/low profitability
+
 <img width="588" height="339" alt="image" src="https://github.com/user-attachments/assets/e6c7b843-ee62-42dd-8f84-ff5e0edd3956" />
 
 🔍 Steps to Solve
